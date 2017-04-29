@@ -1,0 +1,19 @@
+body{
+  
+  background-image: url("unicorns3.jpg");
+  background-size: cover;
+}
+
+.data-item{
+  color: purple;
+}
+
+.jumbotron{
+	background: none;
+	color: pink;	
+}
+
+.copyright{
+  color: #222;
+}
+
